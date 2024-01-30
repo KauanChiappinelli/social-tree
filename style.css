@@ -185,7 +185,7 @@ footer {
 /* media queries */
 @media (min-width: 700px) {
   :root {
-    --bgu-url: url(./assets/bg-desktop.jpg);
+    --bg-url: url(./assets/bg-desktop.jpg);
   }
 
   .light {
