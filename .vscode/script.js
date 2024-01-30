@@ -13,7 +13,5 @@ function toggleMode() {
   // se tiver sem light mode, manter a imagem normal
     img.setAttribute("src", "../assets/avatar-light.png")
     img.setAttribute('alt', 'Foto de Kauan Chiappinelli, usando óculos e blusa preta e fundo branco')
-
-    
   }
 }
